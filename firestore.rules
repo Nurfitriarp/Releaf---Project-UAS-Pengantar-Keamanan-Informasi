@@ -168,3 +168,4 @@ service cloud.firestore {
     }
   }
 }
+// Trigger update to enable Google Auth provider.
